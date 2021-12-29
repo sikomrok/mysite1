@@ -1,0 +1,21 @@
+Customer Name,Item Name,Max Quantity,Remaining Quantity,Quantity for Tier 1,Quantity for Tier 2,Quantity for Tier 3,Quantity for Tier 4,Quantity for Tier 5,Quantity for Tier 6,Normal Unit Price,Bonus Unit Price Tier 1,Bonus Unit Price Tier 2,Bonus Unit Price Tier 3,Bonus Unit Price Tier 4,Bonus Unit Price Tier 5,Bonus Unit Price Tier 6
+,Desloratadine,300,20,30,78,140,300,-,-,18,15,13.80 ,12.9,12,-,-
+,Mupirocin,175,50,13,35,75,175,-,-,21,16.15,15,14,12,-,-
+,Zecuf Herbal Cough Syrup,700,200,120,335,700,-,-,-,7.3,6,5.4,5.2,-,-,-
+,Telmisartan 40mg,45,40,6,14,45,-,-,-,26,21.67,18.57,17.3,-,-,-
+,Telmisartan 80mg,45,40,6,14,45,-,-,-,29,24.67,20.71,19.3,-,-,-
+,Psyllium Husk,27,22,7,13,27,-,-,-,17.75,15.21,13.65,13.14,-,-,-
+,Gabapentin,13,9,6,13,-,-,-,-,85 ,70.83,65.38,-,-,-,-
+,Cefuroxime 250mg,160,140,13,28,75,160,-,-,-,50,46.42,43.33,40.63,-,-
+,Cefuroxime 500mg,160,140,13,28,75,160,-,-,-,72.1,66.9,62.5,58.59,-,-
+,Zecuf Herbal Lozenges (sugar free),503,400,36,70,147,260,362,503,-,10.66,10.26,9.79,9.23,8.28,7.9
+,Zecuf Herbal Lozenges (flavored),503,400,36,70,147,260,362,503,-,8.88,8.57,8.16,7.69,6.92,6.62
+,Herbodyn,40,35,7,12,40,-,-,-,39.9,34.2,33.25,29.25,-,-,-
+,Upnapro-D,12,7,6,12,-,-,-,-,30.75,25.65,23.06,-,-,-,-
+,Dara Harumi,27,22,13,27,-,-,-,-,19.1,14.69,14,-,-,-,-
+,Septiloc,27,22,7,13,27,-,-,-,38,32.57,29.84,28.1,-,-,-
+,Ketoprofen Gel,78,68,18,44,78,-,-,-,13.5,11.57,11,10.38,-,-,-
+,Hydrocortisone Acetate Cream,132,107,19,62,132,-,-,-,5,4.2,4,3.78,-,-,-
+,Clotrimazole and Hydrocortisone Cream,132,107,19,62,132,-,-,-,14,11.78,11.29,10.6,-,-,-
+,Vitamin E 400IU,70,50,12,20,70,-,-,-,25,20.8,18.75,14.28,-,-,-
+,Cod Liver Oil,70,50,12,20,70,-,-,-,20,16.67,15,11.42,-,-,-
